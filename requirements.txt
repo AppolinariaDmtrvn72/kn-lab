@@ -1,0 +1,10 @@
+python-multipart
+fastapi
+keras
+pydantic
+loguru
+cv2
+numpy
+tensorflow
+sklearn
+uvicorn
